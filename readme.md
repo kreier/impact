@@ -6,7 +6,10 @@ Code:
 
 2019-11-15
 
-Alternative:
+## Alternative:
 
 ESP32, MPU6050, LiIon Battery and OLED display for recent max acceleration. All soldered together to be packed into a rubber duck.
 
+## Rubber duck debugging
+
+Not to be confused with [Rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging). Even though we try and perform this from time to time.
