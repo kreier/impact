@@ -1,4 +1,5 @@
 # Arduino Impact sensor with BLE
+[![Build Status](https://travis-ci.com/kreier/impact.svg?branch=master)](https://travis-ci.com/kreier/impact)
 
 Inspired by the Adafruit based impact sensor at [BE conference 2019](http://betogetherconference.com) at the SSIS this project was be recreated with an Arduino, an MPU 6050 for +/-16g and a C2421 BLE module.
 
