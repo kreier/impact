@@ -1,6 +1,10 @@
 language: python
 sudo: false
 
-git:
-  depth: false
-  quiet: true
+cache: pip
+install:
+  - pip install -r requirements.txt
+
+script: 
+  - python3 hello_world.py
+  - python prime1000.py
