@@ -1,6 +1,6 @@
 # Arduino Impact sensor with BLE
 
-[![Build Status](https://travis-ci.com/kreier/impact.svg?branch=master)](https://travis-ci.com/kreier/impact)
+[![pages-build-deployment](https://github.com/kreier/impact/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/kreier/impact/actions/workflows/pages/pages-build-deployment)
 [![MIT license](https://img.shields.io/github/license/kreier/impact?color=brightgreen)](https://kreier.mit-license.org/)
 
 Inspired by the Adafruit based impact sensor at [BE conference 2019](http://betogetherconference.com) at the SSIS this project was be recreated with an Arduino, an MPU 6050 for +/-16g and a C2421 BLE module.
